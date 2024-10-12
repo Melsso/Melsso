@@ -30,6 +30,7 @@ I'm a software developer focusing on building web applications and contributing 
 <a href="https://redis.io/"><img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" width="48" height="48"/></a>
 <a href="https://www.selenium.dev/"><img src="https://img.icons8.com/color/48/000000/selenium.png" alt="Selenium" width="48" height="48"/></a>
 
+
 **Languages:**  
 - C/C++
 - JavaScript
