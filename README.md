@@ -1,5 +1,3 @@
-## ![Profile Picture](https://github.com/Melsso/profile/blob/main/profile.jpg?raw=true)
-
 # 👋 Hi, I'm Sofiane Mallem
 
 **Welcome to my GitHub profile!**  
