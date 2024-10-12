@@ -31,32 +31,21 @@ I'm a software developer focusing on building web applications and contributing 
 <a href="https://www.selenium.dev/"><img src="https://img.icons8.com/color/48/000000/selenium.png" alt="Selenium" width="48" height="48"/></a>
 
 
-**Languages:**  
-- C/C++
-- JavaScript
-- Python
-- Go
-- SQL
-- HTML, CSS
+## 🚀 Skills & Technologies
 
-**Frameworks:**
-- Django
-- Flask
-- Bootstrap
-- Selenium
-
-**Tools:**  
-- Git & GitHub
-- Makefile & Make & Cmake
-- Docker
-- Postman
-- NGINX
-- Redis
-- PostgreSQL
-- MySQL
-- MariaDB
-- Slack
-- VSCode
+| **Languages**        | **Frameworks**              | **Tools**                               |
+|----------------------|-----------------------------|-----------------------------------------|
+| C/C++                | Django                      | Git & GitHub                           |
+| JavaScript           | Flask                       | Makefile & Make & Cmake                |
+| Python               | Bootstrap                   | Docker                                  |
+| Go                   | Selenium                    | Postman                                 |
+| SQL                  |                             | NGINX                                  |
+| HTML, CSS            |                             | Redis                                   |
+|                      |                             | PostgreSQL                              |
+|                      |                             | MySQL                                   |
+|                      |                             | MariaDB                                 |
+|                      |                             | Slack                                   |
+|                      |                             | VSCode                                  |
 
 ## 🔥 Projects
 - **[My Portfolio](https://github.com/Melsso/portfolio):** My personal website and portfolio.  
