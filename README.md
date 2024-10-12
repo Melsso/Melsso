@@ -10,7 +10,6 @@ I'm a software developer focusing on building web applications and contributing 
 - 💬 Ask me about: JavaScript, C/C++, and Python.
 
 ## 🚀 Skills & Technologies
-
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48"/></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="48" height="48"/></a>
 <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48"/></a>
@@ -22,30 +21,17 @@ I'm a software developer focusing on building web applications and contributing 
 <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="48" height="48"/></a>
 <a href="https://flask.palletsprojects.com/"><img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="48" height="48"/></a>
 <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="48" height="48"/></a>
-<a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" width="48" height="48"/></a>
+<a href="https://en.wikipedia.org/wiki/PostgreSQL"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="48" height="48"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/></a>
 <a href="https://slack.com/"><img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack" width="48" height="48"/></a>
 <a href="https://www.postman.com/"><img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman" width="48" height="48"/></a>
 <a href="https://redis.io/"><img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" width="48" height="48"/></a>
-<a href="https://www.selenium.dev/"><img src="https://img.icons8.com/color/48/000000/selenium.png" alt="Selenium" width="48" height="48"/></a>
+<a href="https://en.wikipedia.org/wiki/Selenium_(software)"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/180px-Selenium_logo.svg.png" alt="Selenium" width="48" height="48"/></a>
 
-
-## 🚀 Skills & Technologies
-
-| **Languages**        | **Frameworks**              | **Tools**                               |
-|----------------------|-----------------------------|-----------------------------------------|
-| C/C++                | Django                      | Git & GitHub                           |
-| JavaScript           | Flask                       | Makefile & Make & Cmake                |
-| Python               | Bootstrap                   | Docker                                  |
-| Go                   | Selenium                    | Postman                                 |
-| SQL                  |                             | NGINX                                  |
-| HTML, CSS            |                             | Redis                                   |
-|                      |                             | PostgreSQL                              |
-|                      |                             | MySQL                                   |
-|                      |                             | MariaDB                                 |
-|                      |                             | Slack                                   |
-|                      |                             | VSCode                                  |
+**Languages:** C/C++, JavaScript, Python, Go, SQL, HTML, CSS  
+**Frameworks:** Django, Flask, Bootstrap, Selenium  
+**Tools:** Git & GitHub, Makefile & Make & Cmake, Docker, Postman, NGINX, Redis, PostgreSQL, MySQL, MariaDB, Slack, VSCode
 
 ## 🔥 Projects
 - **[My Portfolio](https://github.com/Melsso/portfolio):** My personal website and portfolio.  
@@ -59,8 +45,12 @@ I'm a software developer focusing on building web applications and contributing 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Melsso&layout=compact&theme=radical)
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sofiane-mallem-b87302170/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:sofiane.mallem.07@gmail.com)
+<a href="https://www.linkedin.com/in/sofiane-mallem-b87302170/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"/>
+</a>
+<a href="mailto:sofiane.mallem.07@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="48" height="48"/>
+</a>
 
 ## 🌐 Check out my Portfolio
 <!-- will add this later  -->
@@ -69,5 +59,4 @@ I'm a software developer focusing on building web applications and contributing 
 ## 🔥 Contribution Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=Melsso&theme=radical)](https://git.io/streak-stats)
 
-## ✍️ Quote
-_"Adaptability is the simple secret of survival."_ – Jessica Hagedorn
+_" Adaptability is the simple secret of survival. "_  – Jessica Hagedorn
