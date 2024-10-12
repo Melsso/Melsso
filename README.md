@@ -32,7 +32,7 @@ I'm a software developer focusing on building web applications and contributing 
 **Tools:** Git & GitHub, Makefile & Make & Cmake, Docker, Postman, NGINX, Redis, PostgreSQL, MySQL, MariaDB, Slack, VSCode
 
 ## 🔥 Projects
-- **[My Portfolio](https://github.com/Melsso/portfolio):** My personal website and portfolio.  
+- **[My Portofolio](https://github.com/Melsso/Portofolio):** My personal website and portofolio.  
 - **[Transcendence](https://github.com/Melsso/Transcendence):** A gaming platform featuring Pong and Ricochet Robots, where users can create accounts, edit profiles, play games, host tournaments, and chat in real-time. Built with Django, PostgreSQL, and a JS/HTML/Bootstrap frontend, it uses Redis, Daphne, and WebSockets for a seamless real-time experience, all deployed efficiently with Docker Compose. 
 - **[AllChat](https://github.com/Melsso/All-Chat):** A social networking platform where users can create accounts, log in, view posts, add friends, and chat seamlessly.  It features a Go backend, a JavaScript frontend, and a MariaDB database, all deployed efficiently using Docker Compose.
 - **[Inception](https://github.com/Melsso/Inception):** Reimplementation of a scalable web infrastructure using Docker and Docker Compose. It involves setting up multiple services, including Nginx, WordPress, and MariaDB, while focusing on containerization, networking, and data persistence to enhance system administration and DevOps skills.
@@ -52,7 +52,7 @@ I'm a software developer focusing on building web applications and contributing 
 
 ## 🌐 Check out my Portfolio
 <!-- will add this later  -->
-[Portfolio](https://yourportfolio.com)  
+[Portofolio](https://yourportfolio.com)  
 
 ## 🔥 Contribution Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=Melsso&theme=radical)](https://git.io/streak-stats)
