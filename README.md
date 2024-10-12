@@ -21,13 +21,11 @@ I'm a software developer focusing on building web applications and contributing 
 <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="48" height="48"/></a>
 <a href="https://flask.palletsprojects.com/"><img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="48" height="48"/></a>
 <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="48" height="48"/></a>
-<a href="https://www.postgresql.org/"><img src="/media/img/about/press/elephant.png" alt="PostgreSQL" width="48" height="48"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/></a>
 <a href="https://slack.com/"><img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack" width="48" height="48"/></a>
 <a href="https://www.postman.com/"><img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman" width="48" height="48"/></a>
 <a href="https://redis.io/"><img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" width="48" height="48"/></a>
-<a href="https://en.wikipedia.org/wiki/Selenium_(software)"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/180px-Selenium_logo.svg.png" alt="Selenium" width="48" height="48"/></a>
 
 **Languages:** C/C++, JavaScript, Python, Go, SQL, HTML, CSS  
 **Frameworks:** Django, Flask, Bootstrap, Selenium  
