@@ -87,4 +87,4 @@ I'm a software developer focusing on building web applications and contributing 
 
 ## ✍️ Quote
 
-_"When we are no longer able to change a situation, we are challenged to change ourselves."_ – Viktor Frankl
+_"Adaptability is the simple secret of survival."_ – Jessica Hagedorn
