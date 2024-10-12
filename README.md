@@ -21,7 +21,7 @@ I'm a software developer focusing on building web applications and contributing 
 <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="48" height="48"/></a>
 <a href="https://flask.palletsprojects.com/"><img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="48" height="48"/></a>
 <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="48" height="48"/></a>
-<a href="https://en.wikipedia.org/wiki/PostgreSQL"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="48" height="48"/></a>
+<a href="https://www.postgresql.org/"><img src="/media/img/about/press/elephant.png" alt="PostgreSQL" width="48" height="48"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/></a>
 <a href="https://slack.com/"><img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack" width="48" height="48"/></a>
