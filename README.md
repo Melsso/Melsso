@@ -38,6 +38,7 @@ I'm a software developer focusing on building web applications and contributing 
 - JavaScript
 - Python
 - Go
+- SQL
 - HTML, CSS
 
 **Frameworks:**
@@ -54,8 +55,11 @@ I'm a software developer focusing on building web applications and contributing 
 - Makefile & Make & Cmake
 - Docker
 - Postman
-- Redis
 - NGINX
+- Redis
+- PostgreSQL
+- MySQL
+- MariaDB
 - Slack
 - VSCode
 
