@@ -4,8 +4,8 @@
 I'm a software developer focusing on building web applications and contributing to open-source projects. I am also passionate about data science as well as IoT.
 
 ## 🌟 About Me
-- 🔭 I’m currently working on: Building my personal portfolio as well as working on Transcendence.  
-- 🌱 I’m learning: Javascript, Go and Django.
+- 🔭 I’m currently working at synthavo as Technical Customer Success.  
+- 🌱 I’m learning: Go and Kubernetes.
 - 👯 I’m looking to collaborate on: Web Development projects, Data Science, and Devops tasks.  
 - 💬 Ask me about: JavaScript, C/C++, and Python.
 
@@ -15,21 +15,17 @@ I'm a software developer focusing on building web applications and contributing 
 <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48"/></a>
 <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/></a>
 <a href="https://golang.org/"><img src="https://img.icons8.com/color/48/000000/go.png" alt="Go" width="48" height="48"/></a>
-<a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="48" height="48"/></a>
-<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48" height="48"/></a>
 <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48" height="48"/></a>
 <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="48" height="48"/></a>
 <a href="https://flask.palletsprojects.com/"><img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="48" height="48"/></a>
 <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="48" height="48"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/></a>
-<a href="https://slack.com/"><img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack" width="48" height="48"/></a>
 <a href="https://www.postman.com/"><img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman" width="48" height="48"/></a>
 <a href="https://redis.io/"><img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" width="48" height="48"/></a>
 
-**Languages:** C/C++, JavaScript, Python, Go, SQL, HTML, CSS  
+**Languages:** C/C++, JavaScript, Python, Go  
 **Frameworks:** Django, Flask, Bootstrap, Selenium  
-**Tools:** Git & GitHub, Makefile & Make & Cmake, Docker, Postman, NGINX, Redis, PostgreSQL, MySQL, MariaDB, Slack, VSCode
+**Tools:** Git & GitHub, Docker, Postman, Redis
 
 ## 🔥 Projects
 - **[My Portofolio](https://github.com/Melsso/Portofolio):** My personal website and portofolio.  
