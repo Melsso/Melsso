@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sofiane Mallem
 
 **Welcome to my GitHub profile!**  
-I'm a software developer focusing on building web applications and contributing to open-source projects. I am also passionate about data science as well as IoT.
+I'm a Python Developer focusing on building web applications and contributing to open-source projects. I am also passionate about data science as well as IoT.
 
 ## 🌟 About Me
 - 🔭 I’m currently looking for my next job.
