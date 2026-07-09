@@ -9,12 +9,13 @@ I'm a Python Developer focusing on building web applications and contributing to
 - 👯 I’m looking to collaborate on: Web Development projects, Data Science, and Devops topics.  
 
 ## 🚀 Skills & Technologies
-**Languages:** C/C++, JavaScript, Python, Go  
+**Languages:** C/C++, JavaScript, Python
 **Frameworks:** Django, Flask, FastAPI, React, Selenium  
 **Tools:** Git & GitHub, Docker, Postman
 
 ## 🔥 Projects
 - **[Hang](https://github.com/Melsso/hang):** A social dating platform where users can create accounts, log in, view/swipe on other people's profiles and chat seamlessly. Designed to support horizontally scaled WebSocket servers through Redis Pub/Sub event propagation and Nginx load balancing.
+- **[Durden](https://github.com/Melsso/durden)** – An object detection API built with FastAPI and YOLO, featuring Dockerized deployment, automated CI/CD with GitHub Actions, and cloud-native deployment on Google Cloud Run.
 - **[My Portofolio](https://github.com/Melsso/Portofolio):** My personal website and portofolio.
 - **[Transcendence](https://github.com/Melsso/Transcendence):** A gaming platform featuring Ping Pong, where users can create accounts, edit profiles, play games, host tournaments, and chat in real-time. Built with Django, PostgreSQL, and a JS/HTML/Bootstrap frontend, it uses Redis, Daphne, and WebSockets for a seamless real-time experience, all deployed efficiently with Docker Compose. 
 - **[Inception](https://github.com/Melsso/Inception):** Reimplementation of a scalable web infrastructure using Docker and Docker Compose. It involves setting up multiple services, including Nginx, WordPress, and MariaDB, while focusing on containerization, networking, and data persistence to enhance system administration and DevOps skills.
